@@ -1,0 +1,3 @@
+{
+  "note": "MySQL adalah database utama pada versi 5. Jalankan npm run setup-db."
+}

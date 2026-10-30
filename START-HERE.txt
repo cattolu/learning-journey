@@ -1,0 +1,19 @@
+LEARNING JOURNEY v5
+
+1. XAMPP -> Start MySQL dan Apache.
+2. VS Code -> buka folder project.
+3. Terminal -> pilih Command Prompt (cmd) jika PowerShell memblokir npm.
+4. npm install
+5. npm run setup-db
+6. npm start
+7. Buka http://localhost:3000
+
+GURU
+guru10 / guru123 -> 10 MPLB (30 siswa)
+guru11 / guru123 -> 11 MPLB (32 siswa)
+guru12 / guru123 -> 12 MPLB (28 siswa)
+
+SISWA
+siswa10_01 ... siswa10_30 / siswa123
+siswa11_01 ... siswa11_32 / siswa123
+siswa12_01 ... siswa12_28 / siswa123

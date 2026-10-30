@@ -1,0 +1,104 @@
+AKUN LEARNING JOURNEY v5
+
+GURU
+Guru 10 MPLB: guru10 / guru123
+Guru 11 MPLB: guru11 / guru123
+Guru 12 MPLB: guru12 / guru123
+
+SISWA
+
+10 MPLB (30 akun)
+siswa10_01 / siswa123
+siswa10_02 / siswa123
+siswa10_03 / siswa123
+siswa10_04 / siswa123
+siswa10_05 / siswa123
+siswa10_06 / siswa123
+siswa10_07 / siswa123
+siswa10_08 / siswa123
+siswa10_09 / siswa123
+siswa10_10 / siswa123
+siswa10_11 / siswa123
+siswa10_12 / siswa123
+siswa10_13 / siswa123
+siswa10_14 / siswa123
+siswa10_15 / siswa123
+siswa10_16 / siswa123
+siswa10_17 / siswa123
+siswa10_18 / siswa123
+siswa10_19 / siswa123
+siswa10_20 / siswa123
+siswa10_21 / siswa123
+siswa10_22 / siswa123
+siswa10_23 / siswa123
+siswa10_24 / siswa123
+siswa10_25 / siswa123
+siswa10_26 / siswa123
+siswa10_27 / siswa123
+siswa10_28 / siswa123
+siswa10_29 / siswa123
+siswa10_30 / siswa123
+
+11 MPLB (32 akun)
+siswa11_01 / siswa123
+siswa11_02 / siswa123
+siswa11_03 / siswa123
+siswa11_04 / siswa123
+siswa11_05 / siswa123
+siswa11_06 / siswa123
+siswa11_07 / siswa123
+siswa11_08 / siswa123
+siswa11_09 / siswa123
+siswa11_10 / siswa123
+siswa11_11 / siswa123
+siswa11_12 / siswa123
+siswa11_13 / siswa123
+siswa11_14 / siswa123
+siswa11_15 / siswa123
+siswa11_16 / siswa123
+siswa11_17 / siswa123
+siswa11_18 / siswa123
+siswa11_19 / siswa123
+siswa11_20 / siswa123
+siswa11_21 / siswa123
+siswa11_22 / siswa123
+siswa11_23 / siswa123
+siswa11_24 / siswa123
+siswa11_25 / siswa123
+siswa11_26 / siswa123
+siswa11_27 / siswa123
+siswa11_28 / siswa123
+siswa11_29 / siswa123
+siswa11_30 / siswa123
+siswa11_31 / siswa123
+siswa11_32 / siswa123
+
+12 MPLB (28 akun)
+siswa12_01 / siswa123
+siswa12_02 / siswa123
+siswa12_03 / siswa123
+siswa12_04 / siswa123
+siswa12_05 / siswa123
+siswa12_06 / siswa123
+siswa12_07 / siswa123
+siswa12_08 / siswa123
+siswa12_09 / siswa123
+siswa12_10 / siswa123
+siswa12_11 / siswa123
+siswa12_12 / siswa123
+siswa12_13 / siswa123
+siswa12_14 / siswa123
+siswa12_15 / siswa123
+siswa12_16 / siswa123
+siswa12_17 / siswa123
+siswa12_18 / siswa123
+siswa12_19 / siswa123
+siswa12_20 / siswa123
+siswa12_21 / siswa123
+siswa12_22 / siswa123
+siswa12_23 / siswa123
+siswa12_24 / siswa123
+siswa12_25 / siswa123
+siswa12_26 / siswa123
+siswa12_27 / siswa123
+siswa12_28 / siswa123
