@@ -131,7 +131,7 @@ async function all(table, req) {
       'feedback',
       'futurePlans',
       'tka',
-      'universityplans',
+      'universityPlans',
       'careerplans',
       'archive',
       'portfolio'
@@ -2430,7 +2430,7 @@ app.get(
       res.json({
   university:
     await all(
-      'universityplans',
+      'universityPlans',
       req
     ),
   career:
@@ -2456,12 +2456,12 @@ app.post(
       const table =
         req.params.type ===
         'university'
-          ? 'universityplans'
+          ? 'universityPlans'
           : 'careerplans';
 
       const prefix =
         table ===
-        'universityplans'
+        'universityPlans'
           ? 'UNI'
           : 'CAR';
 
@@ -2528,7 +2528,7 @@ app.put(
       const table =
         req.params.type ===
         'university'
-          ? 'universityplans'
+          ? 'universityPlans'
           : 'careerplans';
 
       const b =
@@ -2622,7 +2622,7 @@ app.delete(
       const table =
         req.params.type ===
         'university'
-          ? 'universityplans'
+          ? 'universityPlans'
           : 'careerplans';
 
       const r =
