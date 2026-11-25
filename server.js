@@ -132,7 +132,7 @@ async function all(table, req) {
       'futurePlans',
       'tka',
       'universityPlans',
-      'careerplans',
+      'careerPlans',
       'archive',
       'portfolio'
     ].includes(table)
@@ -2435,7 +2435,7 @@ app.get(
     ),
   career:
     await all(
-      'careerplans',
+      'careerPlans',
       req
     )
 });
@@ -2457,7 +2457,7 @@ app.post(
         req.params.type ===
         'university'
           ? 'universityPlans'
-          : 'careerplans';
+          : 'careerPlans';
 
       const prefix =
         table ===
@@ -2529,7 +2529,7 @@ app.put(
         req.params.type ===
         'university'
           ? 'universityPlans'
-          : 'careerplans';
+          : 'careerPlans';
 
       const b =
         req.body || {};
@@ -2623,7 +2623,7 @@ app.delete(
         req.params.type ===
         'university'
           ? 'universityPlans'
-          : 'careerplans';
+          : 'careerPlans';
 
       const r =
         await exec(
